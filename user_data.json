@@ -1,0 +1,9 @@
+{
+    "user" : {
+        "username" : "?",
+        "password" : "?",
+        "email" : "?",
+        "balance" : "?",
+        "last_updated" : "?"
+    }
+}
