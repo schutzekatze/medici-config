@@ -1,11 +1,11 @@
 {
-    "receipt" : {
+    "receipt_data" : {
         "shop_name" : "?",
         "address" : "?",
         "items" : [
             {
-                "item_name" : "?",
-                "item_price" : "?"
+                "name" : "?",
+                "price" : "?"
             }
         ],
         "total" : "?"
